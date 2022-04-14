@@ -1,5 +1,6 @@
 # GaitAnalysis_BM
-Evaluation of balance from kinematics data of human gait  
+Evaluation of balance from kinematics data of human gait by using balance map analysis
+
 ## Overview
 Matlab code for analyzing gait kinematics data with balance map which evaluate walking balance.
 
